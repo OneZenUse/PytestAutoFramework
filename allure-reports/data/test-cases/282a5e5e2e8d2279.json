@@ -1,0 +1,75 @@
+{
+  "uid" : "282a5e5e2e8d2279",
+  "name" : "test_2",
+  "fullName" : "test_Case.test_002#test_2",
+  "historyId" : "999316647ae337c1bfaafde31f050925",
+  "time" : {
+    "start" : 1596882847440,
+    "stop" : 1596882847440,
+    "duration" : 0
+  },
+  "description" : "将橘子加入购物车",
+  "descriptionHtml" : "<p>将橘子加入购物车</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "将橘子加入购物车",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1047d318176d6b2",
+      "name" : "stdout",
+      "source" : "e1047d318176d6b2.txt",
+      "type" : "text/plain",
+      "size" : 28
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加入购物车！"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_Case"
+  }, {
+    "name" : "suite",
+    "value" : "test_002"
+  }, {
+    "name" : "host",
+    "value" : "MantisdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "18570-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Case.test_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "282a5e5e2e8d2279.json",
+  "parameterValues" : [ ]
+}
