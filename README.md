@@ -1,4 +1,2 @@
-# PytestAutomate
-
-## PytestAutomate 框架结构介绍
+# PytestAutomate 框架介绍
   
