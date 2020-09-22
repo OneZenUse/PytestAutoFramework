@@ -14,6 +14,16 @@
 * test_Data         读取/存放测试数据目录
 * run_case_main.py  运行测试用例主方法 
 
+Windows and Mac Install 
+
+
+Issue Solution 
+
+---
+更新说明 v 1.1.0
+1. 新增安装文档
+2. 新增问题解决方案文档
+3. 删除 Shell 封装封装
 ---
 更新说明 v 1.0.0
 1. 重新定义 Pytest 框架

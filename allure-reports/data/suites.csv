@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Aug 08 18:34:07 CST 2020","Sat Aug 08 18:34:07 CST 2020","1","test_Case","test_001","","","","test_2","将橘子加入购物车"
-"passed","Sat Aug 08 18:34:07 CST 2020","Sat Aug 08 18:34:07 CST 2020","0","test_Case","test_002","","","","test_1","将苹果加入购物车"
-"passed","Sat Aug 08 18:34:07 CST 2020","Sat Aug 08 18:34:07 CST 2020","1","test_Case","test_001","","","","test_1","将苹果加入购物车"
-"passed","Sat Aug 08 18:34:07 CST 2020","Sat Aug 08 18:34:07 CST 2020","0","test_Case","test_002","","","","test_2","将橘子加入购物车"

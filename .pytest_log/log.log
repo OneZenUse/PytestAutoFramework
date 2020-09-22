@@ -1,2 +1,46 @@
 [INFO 2020-08-08 18:34:07]初始化配置文件, path=/Users/mantis/Documents/PytestAutomate/test_Config/config.ini
 [ERROR 2020-08-08 18:34:11]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:17:14]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:17:15]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:20:31]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:20:31]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:21:16]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:21:16]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:22:31]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:24:36]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:33:12]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:33:14]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:34:46]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:34:46]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:37:14]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:37:14]执行用例失败，请检查环境配置
+[INFO 2020-09-22 20:37:43]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:37:44]执行用例失败，请检查环境配置
+[INFO 2020-09-22 20:38:20]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:38:20]执行用例失败，请检查环境配置
+[INFO 2020-09-22 20:50:15]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:50:17]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:51:36]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:51:36]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:55:04]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:55:05]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:55:17]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:55:18]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 20:55:34]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 20:55:35]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:05:32]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:05:33]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:06:16]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:06:17]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:08:02]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:08:02]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:23:41]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:23:45]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:24:05]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:24:08]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:24:19]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:24:23]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:43:03]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:43:07]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 21:45:58]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 21:46:02]邮件发送失败，请检查邮件配置

@@ -15,6 +15,6 @@ def run_case_main():
     # --reruns:失败重复执行多少次
     args = ['--alluredir', './allure-results']  # 通过allure生成json  REPORT_DIR：测试结果数据所在目录
     pytest.main(args)
-
+    #pytest.main(['-s', '-q', '--alluredir', './report/xml'])
     # 生成html allure generate 测试结果数据所在目录 -o 测试报告保存的目录 --clean
-    os.system("allure generate allure-results/ -o allure-reports/ --clean")
+    os.system('allure generate  ./allure-results -o ./allure-reports --clean')
