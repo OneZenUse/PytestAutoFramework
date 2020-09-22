@@ -15,9 +15,13 @@
 * run_case_main.py  运行测试用例主方法 
 
 Windows and Mac Install 
+---
 
 
 Issue Solution 
+---
+
+http://note.youdao.com/noteshare?id=cd6ab7fd8548b7f29a1e702c5a7e26d4&sub=DEFEE85C6531450AA5DE7FC4346F7832
 
 ---
 更新说明 v 1.1.0

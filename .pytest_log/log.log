@@ -44,3 +44,5 @@
 [ERROR 2020-09-22 21:43:07]邮件发送失败，请检查邮件配置
 [INFO 2020-09-22 21:45:58]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
 [ERROR 2020-09-22 21:46:02]邮件发送失败，请检查邮件配置
+[INFO 2020-09-22 22:00:40]初始化配置文件, path=C:\Users\OneZen\PycharmProjects\PytestAutoFramework\test_Config\config.ini
+[ERROR 2020-09-22 22:00:44]邮件发送失败，请检查邮件配置
