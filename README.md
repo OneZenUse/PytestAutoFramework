@@ -27,7 +27,7 @@ http://note.youdao.com/noteshare?id=cd6ab7fd8548b7f29a1e702c5a7e26d4&sub=DEFEE85
 更新说明 v 1.1.0
 1. 新增安装文档
 2. 新增问题解决方案文档
-3. 删除 Shell 封装封装
+3. 删除 Shell 封装封装 使用os库调用 shell、cmd命令
 ---
 更新说明 v 1.0.0
 1. 重新定义 Pytest 框架
