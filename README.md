@@ -17,12 +17,14 @@
 Windows and Mac Install 
 ---
 
-
 Issue Solution 
 ---
 
 http://note.youdao.com/noteshare?id=cd6ab7fd8548b7f29a1e702c5a7e26d4&sub=DEFEE85C6531450AA5DE7FC4346F7832
 
+Allure Install 
+---
+https://github.com/allure-framework/allure2/tags
 ---
 更新说明 v 1.1.0
 1. 新增安装文档
